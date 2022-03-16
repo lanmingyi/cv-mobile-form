@@ -1,0 +1,23 @@
+{
+    "id": "misboot-mobile-form",
+    "name": "misboot-mobile-form",
+    "version": "1.0.0",
+    "description": "移动表单在线开发",
+    "keywords": [
+        "misboot-mobile-form"
+    ],
+    "dependencies": {
+        "ant-design-vue": "^1.7.7",
+        "clipboard": "^2.0.8",
+        "core-js": "^2.6.12",
+        "enquire-js": "^0.2.1",
+        "lodash.get": "^4.4.2",
+        "lodash.pick": "^4.4.0",
+        "moment": "^2.29.1",
+        "uview-ui": "^1.8.4",
+        "vue-codemirror-lite": "^1.0.4",
+        "vue-draggable-resizable": "^2.3.0",
+        "vue-qr": "^2.5.0",
+        "vuedraggable": "^2.23.2"
+    }
+}
